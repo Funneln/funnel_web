@@ -1,0 +1,643 @@
+{
+  "header": {
+    "home": "Home",
+    "whatIsFunnel": "About Funnel",
+    "programs": "Programs",
+    "projects": "Projects",
+    "faq": "FAQ",
+    "applyNow": "Apply Now"
+  },
+  "hero": {
+    "title": "Think with AI,",
+    "titleSecond": "Build the Future",
+    "subtitle": "Learn programming through hands-on, project-based experience",
+    "startJourney": "Get Started",
+    "watchDemo": "Watch Demo",
+    "jobPlacementRate": "Satisfaction Rate",
+    "averageSalary": "Hands-On Learning",
+    "alumniNetwork": "AI Projects Built",
+    "justGotHired": "David just enrolled!",
+    "frontendDeveloper": "International School Student",
+    "motivationalMessages": [
+      "💡Been thinking about starting AI & coding \"someday\"? Today's the day.",
+      "⏳While you're thinking it over, others are already getting ahead.",
+      "📚English, AI, and coding — all in one package at this price? Don't miss out.",
+      "🧑‍🏫🎓From basics to hands-on practice, we'll guide you every step. No experience needed.",
+      "🧑‍🏫100% in-person classes — easy to follow along without any worries.",
+      "✅No complicated setup. Just sign up and start learning right away!"
+    ]
+  },
+  "programs": {
+    "title": "What Will You Learn?",
+    "subtitle": "Coding and AI are no longer optional skills.\nFunnel connects your potential to real abilities and results.",
+    "zeroToHeroTitle": "Web Development from Zero to Hero",
+    "zeroToHeroDuration": "12 weeks",
+    "zeroToHeroDescription": "🧑‍💻New to coding? No problem.\nFrom the basics to hands-on practice, you'll build your own website in just 12 weeks.",
+    "zeroToHeroTechnologies": ["HTML", "CSS", "JavaScript", "Git"],
+    "fullStackTitle": "Full-Stack Web Development",
+    "fullStackDescription": "Learn HTML, CSS, JavaScript, React, Node.js, and databases. Build real-world applications from scratch.",
+    "dataScienceTitle": "Build Your Own AI Projects",
+    "dataScienceDuration": "12 weeks",
+    "dataScienceDescription": "🎯Learn ChatGPT, APIs, and image generation all in one go\nand create your own AI projects in this hands-on class.",
+    "dataScienceTechnologies": ["ChatGPT", "DALL·E", "Canva", "Teachable Machine"],
+    "mobileAppTitle": "English Speaking Made Easy",
+    "mobileAppDuration": "Flexible",
+    "mobileAppDescription": "🇺🇸Designed for those who feel nervous about English.\nFrom basic conversation to IT terms needed for classes, we'll learn together step by step.",
+    "mobileAppTechnologies": ["Communication", "IT Terms", "Vocabulary & Pronunciation", "Practical Phrases"],
+    "duration": "Duration",
+    "level": "Level",
+    "beginnerToAdvanced": "Beginner to Advanced",
+    "intermediate": "Intermediate",
+    "whatYouLearn": "What you'll learn:",
+    "learnMore": "Learn More",
+    "weeks": "weeks",
+    "pricing": {
+      "course1": {
+        "main": "$360/month",
+        "original": "$600/month",
+        "discount": "40% off"
+      },
+      "course2": {
+        "main": "$360/month",
+        "original": "$600/month",
+        "discount": "40% off"
+      },
+      "course3": {
+        "main": "$300/month",
+        "original": "$600/month",
+        "discount": "50% off"
+      }
+    },
+    "industryRecognized": "Certificate of Completion",
+    "industryRecognizedDesc": "Get a certificate that proves your achievement and boosts your career prospects.",
+    "smallClassSizes": "Learn as a Team",
+    "smallClassSizesDesc": "Funnel's classes are built around teamwork, helping students grow through communication, responsibility, and problem-solving together.",
+    "projectBasedLearning": "Project-Based Learning",
+    "projectBasedLearningDesc": "Build real applications and create an impressive portfolio while you learn."
+  },
+  "whyChoose": {
+    "title": "Why Choose Funnel?",
+    "subtitle": "Discover what makes our approach to AI and coding education uniquely effective for launching your tech career.",
+    "whyLearnTitle": "Why You Need to Learn AI and Coding",
+    "handsOnLearning": "Hands-On Learning",
+    "handsOnLearningDesc": "Learn by doing through real-world, project-based exercises.",
+    "aiProjectPortfolio": "AI Project Portfolio", 
+    "aiProjectPortfolioDesc": "Build your own AI applications and showcase them confidently.",
+    "englishOnlyInstruction": "English-Only Classes",
+    "englishOnlyInstructionDesc": "All classes are taught in English to strengthen your global communication skills and career readiness.",
+    "industryExperts": "Learn from Industry Experts",
+    "industryExpertsDesc": "Get taught directly by professionals who are actively working in AI and software development.",
+    "careerSupport": "Career Support",
+    "careerSupportDesc": "Resume coaching, interview prep, and job matching services are all included.",
+    "globalSkillset": "Global Skills",
+    "globalSkillsetDesc": "Gain both technical and soft skills that are in high demand across international markets.",
+    "successStories": {
+      "title": "Success Stories That Inspire",
+      "subtitle": "Meet our graduates who've transformed their careers and are now working at top tech companies worldwide.",
+      "formerRetailManager": "Former retail manager",
+      "formerTeacher": "Former teacher",
+      "formerMarketingManager": "Former marketing manager",
+      "startingSalary": "Starting salary",
+      "joinAlumniTitle": "Join Alumni at Top Companies",
+      "joinAlumniSubtitle": "Our graduates work at the world's most innovative companies",
+      "startSuccessStory": "Start Your Success Story"
+    }
+  },
+  "community": {
+    "title": "Join a Thriving Tech Community",
+    "subtitle": "Learning doesn't stop after graduation. Be part of a supportive network that grows with you throughout your career.",
+    "activeMembers": "Active Members",
+    "monthlyEvents": "Monthly Events",
+    "helpResponseRate": "Help Response Rate",
+    "jobReferrals": "Job Referrals",
+    "neverStopLearning": "Never Stop Learning & Growing",
+    "neverStopLearningDesc": "Our community extends far beyond the classroom. Connect with like-minded people, get mentorship from experienced developers, and stay updated with the latest industry trends.",
+    "weeklyCodeChallenges": "Weekly Coding Challenges",
+    "weeklyCodeChallengesDesc": "Solve coding problems together with fellow students",
+    "alumniNetworking": "Alumni Networking Night",
+    "alumniNetworkingDesc": "Connect with graduates working at top companies",
+    "techTalkSeries": "Tech Talk Series",
+    "techTalkSeriesDesc": "Industry experts share insights and career advice",
+    "coffeeAndCode": "Coffee & Code",
+    "coffeeAndCodeDesc": "Casual meetup to work on projects together",
+    "everyTuesday": "Every Tuesday, 7 PM",
+    "firstFriday": "First Friday of the month",
+    "everyOtherThursday": "Every other Thursday, 6 PM",
+    "saturdays": "Saturdays, 10 AM",
+    "communitySupport": "Community Support",
+    "readyToJoin": "Ready to Join Our Community?",
+    "readyToJoinDesc": "Start building meaningful connections that will support your tech career for years to come.",
+    "joinCommunity": "Join Funnel Community"
+  },
+  "footer": {
+    "description": "Transforming lives through intensive coding education. Join thousands of successful graduates who've launched their tech careers with Funnel.",
+    "quickLinks": "Quick Links",
+    "programs": "Programs",
+    "community": "Community",
+    "contactInfo": "Contact Info",
+    "address": "COBI Tower II Building, No. 2-4, Street No. 8, Tan My Ward, HCMC, Vietnam",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "ourTeam": "Our Team",
+    "careers": "Careers",
+    "press": "Press",
+    "copyright": "© 2024 Funnel. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "portfolio": {
+    "title": "What You'll Build",
+    "subtitle": "Create impressive AI-powered applications that showcase your skills and help you land your dream job. Here are real projects our students have built:",
+    "viewDemo": "View Demo",
+    "projects": {
+      "faceEmotionDetector": {
+        "title": "Face Emotion Detector",
+        "description": "AI that recognizes emotions from facial expressions in real-time"
+      },
+      "personalChatbot": {
+        "title": "Personal Chatbot",
+        "description": "Custom AI assistant trained on your personal data and preferences"
+      },
+      "aiArtGallery": {
+        "title": "AI Art Gallery",
+        "description": "Create stunning artwork using machine learning algorithms"
+      },
+      "digitRecognizer": {
+        "title": "Handwritten Digit Recognizer",
+        "description": "Neural network that identifies handwritten numbers with 99% accuracy"
+      },
+      "resumeAnalyzer": {
+        "title": "Smart Resume Analyzer",
+        "description": "AI-powered tool that optimizes resumes for job applications"
+      },
+      "studyScheduler": {
+        "title": "AI Study Scheduler",
+        "description": "Personalized learning schedule based on your goals and habits"
+      },
+      "voiceCommandApp": {
+        "title": "Voice Command Web App",
+        "description": "Control web applications using natural voice commands"
+      },
+      "comicGenerator": {
+        "title": "AI Comic Generator",
+        "description": "Generate comic strips with AI-created characters and dialogue"
+      },
+      "sentimentClassifier": {
+        "title": "Text Sentiment Analyzer",
+        "description": "Analyze emotions and opinions in text with machine learning"
+      },
+      "objectDetector": {
+        "title": "Real-time Object Detector",
+        "description": "Identify and track objects in live video streams"
+      },
+      "movieRecommender": {
+        "title": "Movie Recommendation System",
+        "description": "Personalized movie suggestions based on your viewing history"
+      },
+      "newsSummarizer": {
+        "title": "News Summarizer",
+        "description": "AI that condenses long articles into key points"
+      },
+      "captionGenerator": {
+        "title": "Auto Caption Generator",
+        "description": "Generate captions for images and videos automatically"
+      },
+      "musicRecommender": {
+        "title": "Mood-Based Music Recommender",
+        "description": "AI that suggests music based on your current emotional state"
+      },
+      "fakeNewsClassifier": {
+        "title": "Fake News Detector",
+        "description": "Detect misinformation and verify news authenticity"
+      },
+      "travelPlanner": {
+        "title": "AI Travel Planner",
+        "description": "Create personalized itineraries based on your preferences and budget"
+      },
+      "weatherForecaster": {
+        "title": "ML Weather Forecaster",
+        "description": "Predict weather patterns using machine learning models"
+      },
+      "memeGenerator": {
+        "title": "AI Meme Generator",
+        "description": "Create viral memes with AI-generated text and images"
+      },
+      "languageTranslator": {
+        "title": "Real-Time Language Translator",
+        "description": "Instant translation between 100+ languages using AI"
+      },
+      "financeTracker": {
+        "title": "AI Personal Finance Tracker",
+        "description": "Smart budgeting and expense categorization with AI insights"
+      },
+      "flashcardGenerator": {
+        "title": "Study Flashcard Generator",
+        "description": "Auto-generate study cards from textbooks and notes"
+      },
+      "imageColorizer": {
+        "title": "Image Colorizer",
+        "description": "Transform black and white photos into vibrant color images"
+      },
+      "logoMaker": {
+        "title": "AI Logo Maker",
+        "description": "Design professional logos using artificial intelligence"
+      },
+      "ideaGenerator": {
+        "title": "AI Business Idea Generator",
+        "description": "Generate innovative startup ideas based on market trends"
+      },
+      "codingAssistant": {
+        "title": "GPT Coding Assistant",
+        "description": "AI-powered code completion and debugging helper"
+      },
+      "storyGenerator": {
+        "title": "Kids' Story Generator",
+        "description": "Create personalized bedtime stories with AI characters"
+      },
+      "journalAnalyzer": {
+        "title": "AI Daily Journal Analyzer",
+        "description": "Track mood patterns and personal growth through journal entries"
+      },
+      "speechToText": {
+        "title": "Speech-to-Text Note App",
+        "description": "Convert spoken words into organized, searchable notes"
+      },
+      "qrGenerator": {
+        "title": "AI-Branded QR Code Generator",
+        "description": "Create branded QR codes with AI-designed visual elements"
+      },
+      "dietPlanner": {
+        "title": "AI Diet Planner",
+        "description": "Personalized meal plans based on your health goals and preferences"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Get answers to common questions about our programs, classes, and enrollment process.",
+    "beginners": {
+      "question": "🎓 Can complete beginners join the classes?",
+      "answer": "✅ Absolutely! All classes are designed for complete beginners with no programming background. We provide step-by-step curriculum and mentoring to support your growth."
+    },
+    "classes": {
+      "question": "🏫 How are the classes conducted?",
+      "answer": "💻 Funnel's classes are hands-on, in-person sessions. You'll learn by building real-world projects."
+    },
+    "tools": {
+      "question": "🛠️ What tools and technologies will I learn?",
+      "answer": "🚀 • Web Programming Class: HTML, CSS, JavaScript\n• AI Class: Python, ChatGPT API, Teachable Machine\n\nWe'll guide you through every tool and show you how to use them during class."
+    },
+    "age": {
+      "question": "🎂 Is there an age limit?",
+      "answer": "👥 Anyone from elementary school age and up can join.\nWe welcome beginners of all ages—including college students and working professionals.\nWhat matters most is your passion for learning."
+    },
+    "language": {
+      "question": "🌍 What language are the classes taught in?",
+      "answer": "🗣️ All classes are conducted in English.\nEven if you're not confident in English yet, don't worry.\nWe provide guidance and support to help you follow along smoothly."
+    },
+    "support": {
+      "question": "🤝 Can I get support after the class ends?",
+      "answer": "📚 Yes! Funnel offers post-class support including mentoring feedback, portfolio improvement, and career counseling.\nWe're also building an ongoing Funnel community."
+    },
+    "payment": {
+      "question": "💳 How do I pay? What's the refund policy?",
+      "answer": "💰 You can pay by bank transfer or in-person after enrollment is confirmed.\nRefunds are available before the course starts.\nDetailed refund policy will be provided separately."
+    }
+  },
+  "aiCourse": {
+    "title": "Build Your Own AI Projects",
+    "subtitle": "From ChatGPT to image generation, a hands-on class that helps you create real AI projects.",
+    "applyNow": "Apply Now",
+    "whyTakeTitle": "Why Take This Course?",
+    "whyTakeNegative": "Interested in AI but didn't know where to start?",
+    "whyTakePositive": "Funnel focuses on results — from understanding the basics to building real tools.",
+    "whyStudentsChoose": "Why students choose this course:",
+    "reasons": {
+      "chatgpt": "To master ChatGPT usage",
+      "results": "To build real AI-powered outputs",
+      "portfolio": "To create AI projects for their portfolio",
+      "beginner": "To learn in a beginner-friendly format",
+      "tools": "To explore multiple AI tools hands-on"
+    },
+    "whatYouLearnTitle": "What You'll Learn",
+    "keyTopics": "Key Topics",
+    "topics": {
+      "chatgpt": "How to use ChatGPT effectively",
+      "api": "Connecting to OpenAI APIs",
+      "imageGen": "Image generation (DALL·E, Stable Diffusion, etc.)",
+      "voiceVideo": "Basics of voice/video generation",
+      "buildTool": "Planning and building your own AI tool"
+    },
+    "afterClass": "After this class, you'll be able to...",
+    "outcomes": {
+      "proudSay": "Say \"I built this with AI!\" with confidence",
+      "complete": "Complete your own chatbot or image generation app",
+      "portfolio": "Add real AI projects to your portfolio",
+      "automate": "Start automating tasks using AI tools"
+    },
+    "courseStructureTitle": "Course Format & Projects",
+    "duration": "Duration",
+    "weeks": "12 weeks",
+    "frequency": "Sessions",
+    "schedule": "Twice a week, 90 minutes each",
+    "format": "Format",
+    "formatDesc": "In-person, project-based learning",
+    "mainProjects": "Key projects:",
+    "projects": {
+      "chatbot": "Build your own AI chatbot",
+      "imageApp": "Design and deploy an image generator app",
+      "teamDemo": "Final team project to demo a real AI service"
+    },
+    "whoShouldJoinTitle": "Who Should Take This Class?",
+    "highSchoolStudents": "High school students:",
+    "highSchoolDesc": {
+      "curious": "Curious about AI",
+      "portfolio": "Building a portfolio for university applications"
+    },
+    "professionals": "Working professionals:",
+    "professionalsDesc": {
+      "marketers": "Marketers/designers who want to use AI",
+      "automation": "Want to automate work or build personal tools"
+    },
+    "applicationTitle": "Apply Now",
+    "startDate": "Start Date: September 15, 2025 (Monday)",
+    "classSchedule": "Schedule: 2 sessions/week, 90 minutes each, 12 weeks",
+    "location": "Location: COBI TOWER2, 11th floor",
+    "apply": "Apply Now",
+    "form": {
+      "title": "Apply Now",
+      "name": "Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "preferredCourse": "Preferred Course",
+      "additionalQuestions": "Additional Questions",
+      "placeholder": "Any questions or additional information you'd like to share...",
+      "cancel": "Cancel",
+      "submit": "Submit Application",
+      "successMessage": "Application submitted successfully! We will contact you soon."
+    },
+    "curriculum": {
+      "title": "Detailed Curriculum",
+      "week": "Week",
+      "topic": "Topic",
+      "details": "Details",
+      "weeks": {
+        "1": {
+          "week": "Week 1",
+          "topic": "Orientation & Understanding Generative AI",
+          "details": "What is Generative AI, course goals, ChatGPT setup, sample conversations"
+        },
+        "2": {
+          "week": "Week 2",
+          "topic": "ChatGPT in Practice ① — Text Generation",
+          "details": "Prompting basics, summaries, email & marketing copy, blog post practice"
+        },
+        "3": {
+          "week": "Week 3",
+          "topic": "ChatGPT in Practice ② — Conversational Chatbot",
+          "details": "Scenario building, role-based dialogue, custom chatbot creation"
+        },
+        "4": {
+          "week": "Week 4",
+          "topic": "Intro to DALL·E & Image Generation",
+          "details": "How text-to-image works, logo, thumbnail, illustration creation"
+        },
+        "5": {
+          "week": "Week 5",
+          "topic": "Polishing Design with Canva",
+          "details": "Canva UI walkthrough, collaborative design, banners & presentations"
+        },
+        "6": {
+          "week": "Week 6",
+          "topic": "Mid-Project: Personal Mini Project",
+          "details": "Ideation & planning, tool strategy, 1st version portfolio project"
+        },
+        "7": {
+          "week": "Week 7",
+          "topic": "Teachable Machine Basics ①",
+          "details": "Image/audio model structure, face/object recognition modeling"
+        },
+        "8": {
+          "week": "Week 8",
+          "topic": "Teachable Machine ② — Interactive App",
+          "details": "Embedding models into the web, build a reactive AI app"
+        },
+        "9": {
+          "week": "Week 9",
+          "topic": "API Concepts & OpenAI Integration Basics",
+          "details": "What is an API?, OpenAI structure, no-code API connection"
+        },
+        "10": {
+          "week": "Week 10",
+          "topic": "Final Project Planning",
+          "details": "Choose topic, combine tools (chatbot + visuals + deck), mentoring support"
+        },
+        "11": {
+          "week": "Week 11",
+          "topic": "Final Project Build Week",
+          "details": "Finalization, interim feedback, polish project"
+        },
+        "12": {
+          "week": "Week 12",
+          "topic": "Project Presentation & Graduation",
+          "details": "Presentations, certification, intro to community & future career paths"
+        }
+      }
+    }
+  },
+  "englishCourse": {
+    "title": "Speak English with Confidence – IT Practical Speaking Class",
+    "subtitle": "No more fear of development classes or presentations! Build practical English speaking skills.",
+    "curriculum": {
+      "title": "Detailed Curriculum",
+      "week": "Week",
+      "topic": "Topic",
+      "details": "Details",
+      "weeks": {
+        "1": {
+          "week": "Week 1",
+          "topic": "What is the Web? & Setting Up Dev Tools",
+          "details": "Web structure, browser, VS Code, GitHub"
+        },
+        "2": {
+          "week": "Week 2",
+          "topic": "HTML Basics ①",
+          "details": "Headings, paragraphs, images, links"
+        },
+        "3": {
+          "week": "Week 3",
+          "topic": "HTML Basics ②",
+          "details": "Forms, lists, iframe, etc."
+        },
+        "4": {
+          "week": "Week 4",
+          "topic": "CSS Basics ①",
+          "details": "Styling: colors, fonts, margins, borders"
+        },
+        "5": {
+          "week": "Week 5",
+          "topic": "CSS Basics ②",
+          "details": "Layout (box model), basic design"
+        },
+        "6": {
+          "week": "Week 6",
+          "topic": "Intro to JavaScript",
+          "details": "Button click events, popup interaction"
+        },
+        "7": {
+          "week": "Week 7",
+          "topic": "Personal Character Intro Page",
+          "details": "Mini project using HTML + CSS"
+        },
+        "8": {
+          "week": "Week 8",
+          "topic": "Simple Game Development ①",
+          "details": "Logic with buttons + conditionals"
+        },
+        "9": {
+          "week": "Week 9",
+          "topic": "Simple Game Development ②",
+          "details": "Finalizing logic and styling"
+        },
+        "10": {
+          "week": "Week 10",
+          "topic": "Portfolio Website Planning",
+          "details": "Organizing your content effectively"
+        },
+        "11": {
+          "week": "Week 11",
+          "topic": "Portfolio Website Creation",
+          "details": "Self-intro & project showcase website"
+        },
+        "12": {
+          "week": "Week 12",
+          "topic": "Presentation & Sharing",
+          "details": "Website demo + Deploy via GitHub Pages"
+        }
+      }
+    },
+    "applyNow": "Apply Now",
+    "whyTakeTitle": "Why Take This Course?",
+    "whyTakeNegative": "Can you follow development concepts but feel overwhelmed by English?",
+    "whyTakePositive": "This class focuses on improving practical communication skills for taking IT courses in English.",
+    "whyStudentsChoose": "Why students choose this course:",
+    "reasons": {
+      "speechBlock": "Experience of being unable to ask questions due to language barriers in English classes",
+      "presentation": "Anxiety about English presentations, self-introductions, and project explanations",
+      "career": "Need to improve English speaking skills for work or studying abroad",
+      "communication": "Desire to communicate freely with foreign mentors and friends",
+      "confidence": "Need confidence to express thoughts in English"
+    },
+    "whatYouLearnTitle": "What You'll Learn",
+    "keyTopics": "Key Learning Topics",
+    "topics": {
+      "selfIntro": "Self-introduction",
+      "dailyConv": "Daily conversation",
+      "projectExplain": "Explaining your project",
+      "presentations": "Giving presentations",
+      "techPhrases": "Tech phrases (e.g., \"Run the code\", \"Click the button\")",
+      "pronunciation": "Pronunciation correction & real-time feedback"
+    },
+    "afterClass": "After this class you'll be able to...",
+    "outcomes": {
+      "confidence": "Gain confidence to ask and answer questions in IT classes in English.",
+      "projectExplain": "Naturally explain your own projects in English.",
+      "interview": "Get practical help for English interviews and studying abroad preparation.",
+      "communication": "Communicate with foreign friends and mentors without fear."
+    },
+    "courseStructureTitle": "Course Structure & Curriculum Summary",
+    "duration": "Duration",
+    "weeks": "12 weeks",
+    "frequency": "Sessions",
+    "schedule": "2 sessions/week, 90 minutes each",
+    "format": "Format",
+    "formatDesc": "In-person / Small group speaking-focused training",
+    "mainActivities": "Key activities:",
+    "activities": {
+      "roleplay": "Role-play and pair talking",
+      "presentation": "English self-introduction & project presentations",
+      "practical": "English expression training focused on real class/work situations"
+    },
+    "whoShouldJoinTitle": "Who Should Take This Class?",
+    "students": "Students:",
+    "studentsDesc": {
+      "difficulty": "Those who attend English classes but struggle with speaking",
+      "preparation": "High school/university students preparing for studying abroad or English interviews"
+    },
+    "professionals": "Working professionals:",
+    "professionalsDesc": {
+      "communication": "Those who need to communicate with foreign colleagues/clients in English",
+      "career": "Those preparing for global careers or job changes",
+      "preparation": "Those who need preparation before taking Funnel development classes in English"
+    },
+    "applicationTitle": "Application Information",
+    "startDate": "Start Date: September 15, 2025 (Monday)",
+    "classSchedule": "Schedule: 2 sessions/week, 90 minutes each, 12 weeks total",
+    "location": "Location: COBI TOWER2, 11th floor",
+    "apply": "Apply Now",
+    "form": {
+      "title": "Apply Now",
+      "name": "Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "preferredCourse": "Preferred Course",
+      "additionalQuestions": "Additional Questions",
+      "placeholder": "Any questions or additional information you'd like to share...",
+      "cancel": "Cancel",
+      "submit": "Submit Application",
+      "successMessage": "Application submitted successfully! We will contact you soon."
+    },
+    "curriculum": {
+      "title": "Detailed Curriculum",
+      "level1": {
+        "title": "LEVEL 1 – Basic Speaking Confidence",
+        "description": "Build your confidence in everyday English speaking",
+        "items": [
+          "Introduce yourself, talk about school/work",
+          "Share your hobbies and favorites",
+          "Learn how to ask questions (e.g., Could you explain again?)",
+          "Practice basic sentence structures (subject + verb)"
+        ]
+      },
+      "level2": {
+        "title": "LEVEL 2 – Situational Speaking Training",
+        "description": "Train expressions frequently used in class and real life",
+        "items": [
+          "Common classroom expressions (e.g., I don't understand, Can you repeat that?)",
+          "Explaining or asking during practice (e.g., I clicked the wrong button)",
+          "Practice casual conversations (e.g., How was your weekend?)",
+          "Giving and receiving feedback in English"
+        ]
+      },
+      "level3": {
+        "title": "LEVEL 3 – IT Project Speaking Practice",
+        "description": "Explain your thoughts and projects in English",
+        "items": [
+          "Describe your project overview",
+          "Explain tools and features used",
+          "Storytelling for problem-solving",
+          "Practice presenting (structure + pronunciation)"
+        ]
+      },
+      "level4": {
+        "title": "LEVEL 4 – Real-life Simulations",
+        "description": "Get ready for presentations, mentoring, and global communication",
+        "items": [
+          "English presentation simulation",
+          "Practice interview/self-introduction in spoken form",
+          "Mock conversations with foreign mentors",
+          "Group discussion participation training"
+        ]
+      },
+      "supplementary": {
+        "title": "Supplementary Practice",
+        "items": [
+          "Record your speech and give yourself feedback",
+          "Shadowing practice with native pronunciation",
+          "Expression quizzes & sentence challenge",
+          "How to use AI Tutor (ChatGPT English mode)"
+        ]
+      }
+    }
+  }
+}

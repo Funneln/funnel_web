@@ -1,0 +1,643 @@
+{
+  "header": {
+    "home": "홈",
+    "whatIsFunnel": "Funnel이란",
+    "programs": "프로그램",
+    "projects": "프로젝트",
+    "faq": "FAQ",
+    "applyNow": "지원하기"
+  },
+  "hero": {
+    "title": "AI와 함께 생각하고,",
+    "titleSecond": "미래를 준비하세요",
+    "subtitle": "실습 중심의 프로젝트 기반 학습을 통해 프로그래밍을 경험하세요",
+    "startJourney": "시작하기",
+    "watchDemo": "데모 보기",
+    "jobPlacementRate": "만족도",
+    "averageSalary": "실습 기반 학습",
+    "alumniNetwork": "AI 프로젝트 수",
+    "justGotHired": "David가 방금 등록했어요!",
+    "frontendDeveloper": "International School 학생",
+    "motivationalMessages": [
+      "💡언젠가 시작하려던 AI & 코딩, 지금이 딱 그 타이밍입니다.",
+      "⏳고민하는 사이, 다른 사람들은 먼저 시작했습니다.",
+      "📚영어, AI, 코딩 이 구성에 이 가격? 놓치면 후회합니다.",
+      "🎓기초부터 실전까지 차근차근 도와드려요. 지금 아무것도 몰라도 괜찮습니다.",
+      "🧑‍🏫100% 오프라인, 직접 보고 배우는 수업이라 걱정 없이 따라올 수 있어요.",
+      "✅복잡한 준비물? 랩탑만 있으면 됩니다. 등록만 하면 바로 시작 가능!"
+    ]
+  },
+  "programs": {
+    "title": "무엇을 배우나요?",
+    "subtitle": "코딩과 AI는 더 이상 선택이 아닙니다.\nFunnel이 당신의 잠재력을 실제 기술과 성과로 연결합니다.",
+    "zeroToHeroTitle": "제로부터 시작하는 개발 클래스",
+    "zeroToHeroDuration": "12주",
+    "zeroToHeroDescription": "🧑‍💻코딩이 처음이어도 걱정하지 마세요.\n기초부터 실습까지, 나만의 웹사이트를 12주 만에 완성합니다.",
+    "zeroToHeroTechnologies": ["HTML", "CSS", "JavaScript", "Git"],
+    "fullStackTitle": "풀스택 웹 개발",
+    "fullStackDescription": "HTML, CSS, JavaScript, React, Node.js, 데이터베이스를 배우세요. 실제 애플리케이션을 처음부터 구축해보세요.",
+    "dataScienceTitle": "AI로 나만의 프로젝트 만들기",
+    "dataScienceDuration": "12주",
+    "dataScienceDescription": "🎯ChatGPT, API, 이미지 생성까지 한 번에 배우고\n나만의 AI 프로젝트를 손에 쥐는 실전형 클래스입니다.",
+    "dataScienceTechnologies": ["ChatGPT", "DALL·E", "Canva", "Teachable Machine"],
+    "mobileAppTitle": "영어로 말하는 게 쉬워지는 클래스",
+    "mobileAppDuration": "상시",
+    "mobileAppDescription": "🇺🇸영어가 두려운 분들을 위해 준비했습니다.\n기초 회화부터 IT 수업에 필요한 표현까지, 천천히 함께 배워요.",
+    "mobileAppTechnologies": ["커뮤니케이션", "IT용어", "어휘&발음", "실용 문장"],
+    "duration": "기간",
+    "level": "레벨",
+    "beginnerToAdvanced": "초급에서 고급까지",
+    "intermediate": "중급",
+    "whatYouLearn": "배울 내용:",
+    "learnMore": "자세히 보기",
+    "weeks": "주",
+    "pricing": {
+      "course1": {
+        "main": "$360/월",
+        "original": "$600/월",
+        "discount": "40% 할인"
+      },
+      "course2": {
+        "main": "$360/월",
+        "original": "$600/월",
+        "discount": "40% 할인"
+      },
+      "course3": {
+        "main": "$300/월",
+        "original": "$600/월",
+        "discount": "50% 할인"
+      }
+    },
+    "industryRecognized": "수료증 발급",
+    "industryRecognizedDesc": "완주를 증명하는 수료증, 커리어에 힘을 더합니다.",
+    "smallClassSizes": "팀으로 배우는 클래스",
+    "smallClassSizesDesc": "Funnel의 수업은 팀 단위 협업을 통해 소통, 책임감, 문제 해결력까지 함께 성장하는 과정을 만듭니다.",
+    "projectBasedLearning": "프로젝트 기반 학습",
+    "projectBasedLearningDesc": "학습하면서 실제 애플리케이션을 구축하고 인상적인 포트폴리오를 만드세요."
+  },
+  "whyChoose": {
+    "title": "왜 Funnel을 선택해야 할까요?",
+    "subtitle": "기술 커리어를 설계하는 가장 효과적인 방법",
+    "whyLearnTitle": "AI와 코딩을 배워야 하는 이유",
+    "handsOnLearning": "실습 중심 학습",
+    "handsOnLearningDesc": "실제 프로젝트 기반 연습을 통해 실행하며 배우세요.",
+    "aiProjectPortfolio": "AI 프로젝트 포트폴리오",
+    "aiProjectPortfolioDesc": "자신만의 AI 애플리케이션을 구축하고 선보이세요.",
+    "englishOnlyInstruction": "영어 전용 수업",
+    "englishOnlyInstructionDesc": "모든 수업이 영어로 진행되어 글로벌 소통 능력과 커리어 준비를 강화합니다.",
+    "industryExperts": "업계 전문가 강의",
+    "industryExpertsDesc": "AI와 소프트웨어 개발 분야에서 활발히 활동하는 전문가들로부터 직접 배우세요.",
+    "careerSupport": "커리어 지원",
+    "careerSupportDesc": "이력서 코칭, 면접 준비, 취업 매칭이 포함됩니다.",
+    "globalSkillset": "글로벌 스킬셋",
+    "globalSkillsetDesc": "국제 시장에서 수요가 높은 기술적, 소프트 스킬을 습득하세요.",
+    "successStories": {
+      "title": "영감을 주는 성공 사례",
+      "subtitle": "커리어를 변화시키고 현재 전 세계 최고의 기술 회사에서 일하고 있는 졸업생들을 만나보세요.",
+      "formerRetailManager": "전 소매업 매니저",
+      "formerTeacher": "전 교사",
+      "formerMarketingManager": "전 마케팅 매니저",
+      "startingSalary": "초봉",
+      "joinAlumniTitle": "최고 기업의 졸업생들과 함께하세요",
+      "joinAlumniSubtitle": "우리 졸업생들은 세계에서 가장 혁신적인 회사에서 일하고 있습니다",
+      "startSuccessStory": "성공 스토리 시작하기"
+    }
+  },
+  "community": {
+    "title": "번영하는 기술 커뮤니티에 참여하세요",
+    "subtitle": "학습은 졸업 후에도 계속됩니다. 커리어 전반에 걸쳐 함께 성장하는 지원적인 네트워크의 일부가 되세요.",
+    "activeMembers": "활성 멤버",
+    "monthlyEvents": "월간 이벤트",
+    "helpResponseRate": "도움 응답률",
+    "jobReferrals": "취업 추천",
+    "neverStopLearning": "끊임없는 학습과 성장",
+    "neverStopLearningDesc": "우리 커뮤니티는 교실을 훨씬 넘어섭니다. 같은 생각을 가진 사람들과 연결하고, 경험 많은 개발자들로부터 멘토링을 받고, 최신 업계 트렌드를 업데이트하세요.",
+    "weeklyCodeChallenges": "주간 코딩 챌린지",
+    "weeklyCodeChallengesDesc": "동료 학생들과 함께 알고리즘 문제 해결",
+    "alumniNetworking": "졸업생 네트워킹 나이트",
+    "alumniNetworkingDesc": "최고 기업에서 일하는 졸업생들과 연결",
+    "techTalkSeries": "기술 토크 시리즈",
+    "techTalkSeriesDesc": "업계 전문가들이 인사이트와 커리어 조언 공유",
+    "coffeeAndCode": "커피 & 코드",
+    "coffeeAndCodeDesc": "함께 프로젝트를 작업하는 캐주얼 모임",
+    "everyTuesday": "매주 화요일, 오후 7시",
+    "firstFriday": "매월 첫 번째 금요일",
+    "everyOtherThursday": "격주 목요일, 오후 6시",
+    "saturdays": "토요일, 오전 10시",
+    "communitySupport": "커뮤니티 지원",
+    "readyToJoin": "커뮤니티에 참여할 준비가 되셨나요?",
+    "readyToJoinDesc": "앞으로 몇 년간 기술 커리어를 지원할 의미 있는 연결을 구축하기 시작하세요.",
+    "joinCommunity": "Funnel 커뮤니티 참여"
+  },
+  "footer": {
+    "description": "집중적인 코딩 교육을 통해 삶을 변화시킵니다. Funnel과 함께 기술 커리어를 시작한 수천 명의 성공한 졸업생들과 함께하세요.",
+    "quickLinks": "빠른 링크",
+    "programs": "프로그램",
+    "community": "커뮤니티",
+    "contactInfo": "연락처 정보",
+    "address": "서울특별시 강남구 테헤란로 123",
+    "company": "회사",
+    "aboutUs": "회사 소개",
+    "ourTeam": "우리 팀",
+    "careers": "채용",
+    "press": "보도자료",
+    "copyright": "© 2024 Funnel. All rights reserved.",
+    "privacyPolicy": "개인정보처리방침",
+    "termsOfService": "이용약관"
+  },
+  "portfolio": {
+    "title": "당신이 만들게 될 것들",
+    "subtitle": "포트폴리오가 말해주는 당신의 성장과 가능성",
+    "viewDemo": "데모 보기",
+    "projects": {
+      "faceEmotionDetector": {
+        "title": "얼굴 감정 인식기",
+        "description": "실시간으로 얼굴 표정에서 감정을 인식하는 AI"
+      },
+      "personalChatbot": {
+        "title": "개인 맞춤 챗봇",
+        "description": "개인 데이터와 선호도로 훈련된 맞춤형 AI 어시스턴트"
+      },
+      "aiArtGallery": {
+        "title": "AI 생성 아트 갤러리",
+        "description": "머신러닝 알고리즘을 사용하여 멋진 예술 작품 창작"
+      },
+      "digitRecognizer": {
+        "title": "손글씨 숫자 인식기",
+        "description": "99% 정확도로 손으로 쓴 숫자를 식별하는 신경망"
+      },
+      "resumeAnalyzer": {
+        "title": "스마트 이력서 분석기",
+        "description": "취업 지원을 위해 이력서를 최적화하는 AI 도구"
+      },
+      "studyScheduler": {
+        "title": "AI 학습 스케줄러",
+        "description": "목표와 습관을 기반으로 한 개인화된 학습 일정"
+      },
+      "voiceCommandApp": {
+        "title": "음성 명령 웹 앱",
+        "description": "자연스러운 음성 명령으로 웹 애플리케이션 제어"
+      },
+      "comicGenerator": {
+        "title": "AI 만화 생성기",
+        "description": "AI가 만든 캐릭터와 대화로 만화 스트립 생성"
+      },
+      "sentimentClassifier": {
+        "title": "텍스트 감정 분류기",
+        "description": "머신러닝으로 텍스트의 감정과 의견 분석"
+      },
+      "objectDetector": {
+        "title": "실시간 객체 탐지기",
+        "description": "라이브 비디오 스트림에서 객체 식별 및 추적"
+      },
+      "movieRecommender": {
+        "title": "영화 추천 시스템",
+        "description": "시청 기록을 바탕으로 한 개인화된 영화 추천"
+      },
+      "newsSummarizer": {
+        "title": "뉴스 요약기",
+        "description": "긴 기사를 핵심 포인트로 요약하는 AI"
+      },
+      "captionGenerator": {
+        "title": "자동 캡션 생성기",
+        "description": "이미지와 비디오에 자동으로 캡션 생성"
+      },
+      "musicRecommender": {
+        "title": "기분 기반 음악 추천기",
+        "description": "현재 감정 상태를 바탕으로 음악을 추천하는 AI"
+      },
+      "fakeNewsClassifier": {
+        "title": "가짜 뉴스 분류기",
+        "description": "잘못된 정보를 탐지하고 뉴스 진위 확인"
+      },
+      "travelPlanner": {
+        "title": "AI 기반 여행 계획기",
+        "description": "선호도와 예산을 바탕으로 개인화된 여행 일정 생성"
+      },
+      "weatherForecaster": {
+        "title": "머신러닝 날씨 예보기",
+        "description": "머신러닝 모델을 사용한 날씨 패턴 예측"
+      },
+      "memeGenerator": {
+        "title": "AI 밈 생성기",
+        "description": "AI가 생성한 텍스트와 이미지로 바이럴 밈 생성"
+      },
+      "languageTranslator": {
+        "title": "실시간 언어 번역기",
+        "description": "AI를 사용한 100개 이상 언어 간 즉시 번역"
+      },
+      "financeTracker": {
+        "title": "AI 개인 가계부",
+        "description": "AI 인사이트를 통한 스마트 예산 관리 및 지출 분류"
+      },
+      "flashcardGenerator": {
+        "title": "학습 플래시카드 생성기",
+        "description": "교과서와 노트에서 자동으로 학습 카드 생성"
+      },
+      "imageColorizer": {
+        "title": "이미지 컬러라이저",
+        "description": "흑백 사진을 생생한 컬러 이미지로 변환"
+      },
+      "logoMaker": {
+        "title": "AI 로고 메이커",
+        "description": "인공지능을 사용한 전문적인 로고 디자인"
+      },
+      "ideaGenerator": {
+        "title": "AI 비즈니스 아이디어 생성기",
+        "description": "시장 트렌드를 바탕으로 혁신적인 스타트업 아이디어 생성"
+      },
+      "codingAssistant": {
+        "title": "GPT 기반 코딩 어시스턴트",
+        "description": "AI 기반 코드 완성 및 디버깅 도우미"
+      },
+      "storyGenerator": {
+        "title": "어린이 동화 생성기",
+        "description": "AI 캐릭터로 개인화된 잠자리 동화 생성"
+      },
+      "journalAnalyzer": {
+        "title": "AI 일기 분석기",
+        "description": "일기 항목을 통한 기분 패턴 및 개인 성장 추적"
+      },
+      "speechToText": {
+        "title": "음성-텍스트 노트 앱",
+        "description": "음성을 체계적이고 검색 가능한 노트로 변환"
+      },
+      "qrGenerator": {
+        "title": "AI 브랜딩 QR 코드 생성기",
+        "description": "AI 디자인 시각 요소가 포함된 브랜드 QR 코드 생성"
+      },
+      "dietPlanner": {
+        "title": "AI 기반 식단 계획기",
+        "description": "건강 목표와 선호도를 바탕으로 한 개인화된 식단 계획"
+      }
+    }
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subtitle": "프로그램, 수업, 등록 과정에 대한 일반적인 질문에 대한 답변을 확인하세요.",
+    "beginners": {
+      "question": "🎓 초보자도 수업에 참여할 수 있나요?",
+      "answer": "✅ 네, 물론입니다. 모든 수업은 프로그래밍 배경이 전혀 없는 완전 초보자를 위해 설계되었습니다. 단계별 커리큘럼과 멘토링을 제공하여 성장을 지원합니다."
+    },
+    "classes": {
+      "question": "🏫 수업은 어떻게 진행되나요?",
+      "answer": "💻 Funnel의 수업은 실습 중심의 오프라인 세션입니다. 실제 프로젝트를 구축하면서 배우게 됩니다."
+    },
+    "tools": {
+      "question": "🛠️ 어떤 도구와 기술을 배우나요?",
+      "answer": "🚀 • 웹 프로그래밍 수업: HTML, CSS, JavaScript\n• AI 수업: Python, ChatGPT API, Teachable Machine\n\n수업 중에 모든 도구와 사용법을 안내해드립니다."
+    },
+    "age": {
+      "question": "🎂 나이 제한이 있나요?",
+      "answer": "👥 초등학생부터 누구나 참여할 수 있습니다.\n대학생과 직장인을 포함하여 모든 연령의 초보자를 환영합니다.\n가장 중요한 것은 배우고자 하는 열정입니다."
+    },
+    "language": {
+      "question": "🌍 수업은 어떤 언어로 진행되나요?",
+      "answer": "🗣️ 모든 수업은 영어로 진행됩니다.\n아직 영어에 자신이 없어도 걱정하지 마세요.\n원활하게 따라갈 수 있도록 안내와 지원을 제공합니다."
+    },
+    "support": {
+      "question": "🤝 수업이 끝난 후에도 지원을 받을 수 있나요?",
+      "answer": "📚 네. Funnel은 멘토링 피드백, 포트폴리오 개선, 커리어 상담 등 수업 후 지원을 제공합니다.\n지속적인 Funnel 커뮤니티 구축도 계획하고 있습니다."
+    },
+    "payment": {
+      "question": "💳 결제는 어떻게 하나요? 환불 정책이 있나요?",
+      "answer": "💰 등록 확정 후 계좌이체 또는 현장에서 결제할 수 있습니다.\n수업 시작 전까지 환불이 가능합니다.\n자세한 환불 정책은 별도로 제공됩니다."
+    }
+  },
+  "aiCourse": {
+    "title": "AI로 나만의 프로젝트 만들기",
+    "subtitle": "ChatGPT부터 이미지 생성까지, 실제 AI 프로젝트를 만드는 실습 중심 클래스입니다.",
+    "applyNow": "지금 수강 신청하기",
+    "whyTakeTitle": "왜 이 수업을 들어야 하나요?",
+    "whyTakeNegative": "AI에 관심은 있지만 어디서부터 시작해야 할지 몰랐나요?",
+    "whyTakePositive": "Funnel은 결과에 집중합니다 — 기초 이해부터 실제 도구 구축까지.",
+    "whyStudentsChoose": "학생들이 이 수업을 선택하는 이유:",
+    "reasons": {
+      "chatgpt": "ChatGPT 활용법을 마스터하기 위해",
+      "results": "실제 AI 기반 결과물을 만들기 위해",
+      "portfolio": "포트폴리오용 AI 프로젝트를 만들기 위해",
+      "beginner": "초보자 친화적인 형태로 배우기 위해",
+      "tools": "다양한 AI 도구를 직접 체험하기 위해"
+    },
+    "whatYouLearnTitle": "무엇을 배우게 되나요?",
+    "keyTopics": "주요 주제",
+    "topics": {
+      "chatgpt": "ChatGPT 사용법",
+      "api": "OpenAI API 연결하기",
+      "imageGen": "이미지 생성 (DALL·E, Stable Diffusion 등)",
+      "voiceVideo": "음성/비디오 생성 기초",
+      "buildTool": "나만의 AI 도구 기획 및 구축"
+    },
+    "afterClass": "수업 후 할 수 있게 되는 것들",
+    "outcomes": {
+      "proudSay": "\"이거 제가 AI로 만들었어요!\"라고 말할 수 있습니다",
+      "complete": "나만의 챗봇이나 이미지 생성 앱을 완성합니다",
+      "portfolio": "포트폴리오에 실제 AI 프로젝트를 추가합니다",
+      "automate": "AI 도구를 사용해 업무를 자동화하기 시작합니다"
+    },
+    "courseStructureTitle": "수업 형태 & 프로젝트",
+    "duration": "기간",
+    "weeks": "12주",
+    "frequency": "횟수",
+    "schedule": "주 2회, 회당 90분",
+    "format": "방식",
+    "formatDesc": "오프라인, 프로젝트 기반 학습",
+    "mainProjects": "주요 프로젝트:",
+    "projects": {
+      "chatbot": "나만의 AI 챗봇 구축",
+      "imageApp": "이미지 생성기 앱 설계 및 배포",
+      "teamDemo": "실제 AI 서비스 데모 팀 프로젝트"
+    },
+    "whoShouldJoinTitle": "누가 들으면 좋을까요?",
+    "highSchoolStudents": "고등학생:",
+    "highSchoolDesc": {
+      "curious": "AI에 호기심이 있는 학생",
+      "portfolio": "대학 입시용 포트폴리오를 구축하는 학생"
+    },
+    "professionals": "직장인:",
+    "professionalsDesc": {
+      "marketers": "AI를 활용하고 싶은 마케터/디자이너",
+      "automation": "업무 자동화나 개인 도구를 만들고 싶은 분"
+    },
+    "applicationTitle": "수강 신청",
+    "startDate": "개강일: 2025년 9월 15일 (월요일)",
+    "classSchedule": "수업 일정: 주 2회, 회당 90분, 12주 과정",
+    "location": "강의장소: COBI TOWER2 11층",
+    "apply": "지금 수강 신청하기",
+    "form": {
+      "title": "수강 신청",
+      "name": "이름",
+      "phone": "연락처",
+      "email": "이메일",
+      "preferredCourse": "희망 수업",
+      "additionalQuestions": "기타 문의",
+      "placeholder": "궁금한 점이나 추가로 전달하고 싶은 내용이 있으시면 적어주세요...",
+      "cancel": "취소",
+      "submit": "신청하기",
+      "successMessage": "수강 신청이 완료되었습니다! 곧 연락드리겠습니다."
+    },
+    "curriculum": {
+      "title": "상세 커리큘럼",
+      "week": "주차",
+      "topic": "주제",
+      "details": "세부 내용",
+      "weeks": {
+        "1": {
+          "week": "1주차",
+          "topic": "오리엔테이션 & 생성형 AI의 이해",
+          "details": "생성형 AI 개념, 수업 목표, ChatGPT 시작, 대화 예제 실습"
+        },
+        "2": {
+          "week": "2주차",
+          "topic": "ChatGPT 실전 활용 ① — 텍스트 생성",
+          "details": "프롬프트 작성, 정보 요약, 이메일/마케팅 문구, 블로그 작성 실습"
+        },
+        "3": {
+          "week": "3주차",
+          "topic": "ChatGPT 실전 활용 ② — 대화형 챗봇",
+          "details": "챗봇 시나리오, 역할 기반 설정, 상담 챗봇 실습"
+        },
+        "4": {
+          "week": "4주차",
+          "topic": "DALL·E 기본 사용법 & 이미지 생성",
+          "details": "텍스트→이미지 원리, 로고/썸네일/일러스트 제작 실습"
+        },
+        "5": {
+          "week": "5주차",
+          "topic": "Canva로 디자인 완성도 높이기",
+          "details": "Canva UI, 템플릿 활용, 배너/카드뉴스 실습"
+        },
+        "6": {
+          "week": "6주차",
+          "topic": "Mid-Project 미니 프로젝트 (개인)",
+          "details": "개인 아이디어 설계, 툴 조합 전략, 1차 포트폴리오 제작"
+        },
+        "7": {
+          "week": "7주차",
+          "topic": "Teachable Machine 이해 & 활용 ①",
+          "details": "이미지/오디오 모델 구조 이해, 표정/사물 인식 모델 실습"
+        },
+        "8": {
+          "week": "8주차",
+          "topic": "Teachable Machine 활용 ② — 인터랙티브 앱 만들기",
+          "details": "모델 웹 임베딩, 실시간 반응 웹앱 구축 실습"
+        },
+        "9": {
+          "week": "9주차",
+          "topic": "API 개념 및 OpenAI 연동 기초",
+          "details": "API 개념, OpenAI 구조, 노코드 도구 연결 실습"
+        },
+        "10": {
+          "week": "10주차",
+          "topic": "개인 프로젝트 설계 & 기획",
+          "details": "최종 프로젝트 주제 선정, 도구 조합, 멘토링/피드백"
+        },
+        "11": {
+          "week": "11주차",
+          "topic": "프로젝트 제작 & 실습 (제작 주간)",
+          "details": "결과물 구체화, 중간 점검 및 피드백 제공"
+        },
+        "12": {
+          "week": "12주차",
+          "topic": "프로젝트 발표 & 수료",
+          "details": "팀/개인 발표, 수료식, 커뮤니티 소개 및 진로 안내"
+        }
+      }
+    }
+  },
+  "englishCourse": {
+    "title": "영어로 자신 있게 말하기 – IT 실전 스피킹 클래스",
+    "subtitle": "개발 수업도, 발표도 더 이상 두렵지 않게! 영어로 말하는 실전 감각을 키우는 수업",
+    "curriculum": {
+      "title": "상세 커리큘럼",
+      "week": "주차",
+      "topic": "주제",
+      "details": "세부 내용",
+      "weeks": {
+        "1": {
+          "week": "1주차",
+          "topic": "웹이 뭐예요? & 개발환경 만들기",
+          "details": "웹 구조, 브라우저, VS Code, GitHub"
+        },
+        "2": {
+          "week": "2주차",
+          "topic": "HTML 기초 ①",
+          "details": "제목, 단락, 이미지, 링크 만들기"
+        },
+        "3": {
+          "week": "3주차",
+          "topic": "HTML 기초 ②",
+          "details": "폼, 리스트, iframe 등"
+        },
+        "4": {
+          "week": "4주차",
+          "topic": "CSS 기초 ①",
+          "details": "색상, 폰트, 여백, 테두리 등 꾸미기"
+        },
+        "5": {
+          "week": "5주차",
+          "topic": "CSS 기초 ②",
+          "details": "레이아웃(박스 모델), 간단한 스타일링"
+        },
+        "6": {
+          "week": "6주차",
+          "topic": "JavaScript 맛보기",
+          "details": "버튼 클릭, 팝업 띄우기 등 인터랙션"
+        },
+        "7": {
+          "week": "7주차",
+          "topic": "나만의 캐릭터 소개 페이지 만들기",
+          "details": "HTML + CSS 활용 미니 프로젝트"
+        },
+        "8": {
+          "week": "8주차",
+          "topic": "간단한 게임 만들기 ①",
+          "details": "버튼 + 조건문을 이용한 로직 설계"
+        },
+        "9": {
+          "week": "9주차",
+          "topic": "간단한 게임 만들기 ②",
+          "details": "동작 완성 및 꾸미기"
+        },
+        "10": {
+          "week": "10주차",
+          "topic": "포트폴리오 웹 기획",
+          "details": "내가 만든 콘텐츠를 정리하는 방법"
+        },
+        "11": {
+          "week": "11주차",
+          "topic": "포트폴리오 제작",
+          "details": "자기소개 / 프로젝트 정리 웹페이지"
+        },
+        "12": {
+          "week": "12주차",
+          "topic": "발표 & 공유",
+          "details": "완성된 웹사이트 공유 + GitHub Pages 배포"
+        }
+      }
+    },
+    "applyNow": "지금 수강 신청하기",
+    "whyTakeTitle": "왜 이 수업을 들어야 하나요?",
+    "whyTakeNegative": "개발은 어느 정도 따라가겠는데 영어가 너무 부담스러우신가요?",
+    "whyTakePositive": "이 수업은 IT 수업을 영어로 수강하기 위한 실전 커뮤니케이션 능력 향상에 초점을 둡니다.",
+    "whyStudentsChoose": "학생들이 이 수업을 선택하는 이유:",
+    "reasons": {
+      "speechBlock": "수업은 영어인데 말이 막혀서 질문조차 어려웠던 경험",
+      "presentation": "영어 발표, 자기소개, 프로젝트 설명에 대한 불안감",
+      "career": "실무 또는 유학을 위한 영어 말하기 능력 향상",
+      "communication": "외국인 멘토나 친구들과 자유롭게 말하고 싶은 욕구",
+      "confidence": "영어로 자신의 생각을 표현할 자신감이 필요해서"
+    },
+    "whatYouLearnTitle": "무엇을 배우게 되나요?",
+    "keyTopics": "배울 내용 키워드",
+    "topics": {
+      "selfIntro": "Self-introduction",
+      "dailyConv": "Daily conversation",
+      "projectExplain": "Explaining your project",
+      "presentations": "Giving presentations",
+      "techPhrases": "Tech phrases (e.g., \"Run the code\", \"Click the button\")",
+      "pronunciation": "Pronunciation correction & real-time feedback"
+    },
+    "afterClass": "이 수업이 끝나면",
+    "outcomes": {
+      "confidence": "IT 수업에서 질문하고 답할 수 있는 영어 자신감이 생깁니다.",
+      "projectExplain": "나만의 프로젝트를 영어로 자연스럽게 설명할 수 있습니다.",
+      "interview": "영어 인터뷰 및 유학 준비에 실질적인 도움이 됩니다.",
+      "communication": "외국인 친구, 멘토와 두려움 없이 대화할 수 있습니다."
+    },
+    "courseStructureTitle": "수업 구성 & 커리큘럼 요약",
+    "duration": "기간",
+    "weeks": "12주",
+    "frequency": "횟수",
+    "schedule": "주 2회 / 회당 90분",
+    "format": "방식",
+    "formatDesc": "오프라인 / 소규모 말하기 중심 훈련",
+    "mainActivities": "주요 활동:",
+    "activities": {
+      "roleplay": "롤플레이와 페어 토킹",
+      "presentation": "영어 자기소개 & 프로젝트 발표",
+      "practical": "실제 수업/업무 상황 중심의 영어 표현 훈련"
+    },
+    "whoShouldJoinTitle": "누가 들으면 좋을까요?",
+    "students": "학생:",
+    "studentsDesc": {
+      "difficulty": "영어로 수업을 듣지만 말하는 데 어려움을 느끼는 분",
+      "preparation": "유학, 영어 인터뷰를 준비 중인 고등/대학생"
+    },
+    "professionals": "직장인:",
+    "professionalsDesc": {
+      "communication": "외국인 동료/클라이언트와 영어로 소통해야 하는 분",
+      "career": "글로벌 커리어 또는 이직을 준비 중인 분",
+      "preparation": "Funnel 개발 수업을 영어로 듣기 전 준비가 필요한 분"
+    },
+    "applicationTitle": "수강 신청 안내",
+    "startDate": "개강일: 2025년 9월 15일 (월요일)",
+    "classSchedule": "수업 일정: 매주 2회 / 회당 90분 / 총 12주 과정",
+    "location": "강의 장소: COBI TOWER2 11층",
+    "apply": "수강 신청하기",
+    "form": {
+      "title": "수강 신청",
+      "name": "이름",
+      "phone": "연락처",
+      "email": "이메일",
+      "preferredCourse": "희망 수업",
+      "additionalQuestions": "기타 문의",
+      "placeholder": "궁금한 점이나 추가로 전달하고 싶은 내용이 있으시면 적어주세요...",
+      "cancel": "취소",
+      "submit": "신청하기",
+      "successMessage": "수강 신청이 완료되었습니다! 곧 연락드리겠습니다."
+    },
+    "curriculum": {
+      "title": "상세 커리큘럼",
+      "level1": {
+        "title": "LEVEL 1 – 기초 표현 익히기",
+        "description": "기본적인 영어 말하기 자신감을 키우는 단계",
+        "items": [
+          "자기소개, 학교/직장 이야기하기",
+          "좋아하는 것, 취미 소개",
+          "\"질문하는 법\" 익히기 (ex. Could you explain again?)",
+          "기초 문장 말하기 연습 (주어+동사 구조 중심)"
+        ]
+      },
+      "level2": {
+        "title": "LEVEL 2 – 상황별 회화 트레이닝",
+        "description": "수업 및 실생활에서 자주 쓰이는 영어 표현 집중 훈련",
+        "items": [
+          "수업 중 자주 쓰는 표현 (e.g., I don't understand, Can you repeat that?)",
+          "실습 중 설명/요청하기 (e.g., I clicked the wrong button, What should I do next?)",
+          "친구와의 자연스러운 대화 연습 (e.g., How was your weekend?)",
+          "피드백 받기/주기 영어 표현"
+        ]
+      },
+      "level3": {
+        "title": "LEVEL 3 – IT 프로젝트 중심 말하기",
+        "description": "나의 생각과 프로젝트를 영어로 설명하는 실전 중심 커리큘럼",
+        "items": [
+          "프로젝트 개요 설명하기",
+          "사용한 툴과 기능 설명",
+          "문제 해결 과정 스토리텔링",
+          "발표 연습 (구조 잡기 + 발음 피드백)"
+        ]
+      },
+      "level4": {
+        "title": "LEVEL 4 – 실전 상황 모의 연습",
+        "description": "수업 발표, 멘토링, 글로벌 커뮤니케이션 대비",
+        "items": [
+          "영어 발표 시뮬레이션",
+          "인터뷰/자기소개서 말하기 버전 연습",
+          "외국인 멘토와의 모의 대화",
+          "그룹 디스커션 참여 훈련"
+        ]
+      },
+      "supplementary": {
+        "title": "보조 활동 및 실습",
+        "items": [
+          "말하기 기록 후 자기 피드백",
+          "원어민 발음 듣고 따라하기 (shadowing)",
+          "표현 확장 퀴즈 & 문장 만들기 챌린지",
+          "AI 튜터(ChatGPT 영어회화 모드) 병행 사용법 안내"
+        ]
+      }
+    }
+  }
+}
